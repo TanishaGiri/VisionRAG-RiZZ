@@ -1,0 +1,57 @@
+[
+  {
+    "id": "p001",
+    "name": "Classic Black Evening Dress",
+    "description": "Elegant black evening dress with a fitted silhouette, suitable for parties and formal occasions.",
+    "category": "Dresses",
+    "brand": "VisionStyle",
+    "price": 2499,
+    "currency": "INR",
+    "image_url": "https://placehold.co/600x800?text=Black+Dress",
+    "tags": ["black", "party", "evening", "formal", "dress"]
+  },
+  {
+    "id": "p002",
+    "name": "Red Floral Summer Dress",
+    "description": "Lightweight red floral dress designed for casual summer outings and daytime events.",
+    "category": "Dresses",
+    "brand": "VisionStyle",
+    "price": 1799,
+    "currency": "INR",
+    "image_url": "https://placehold.co/600x800?text=Red+Dress",
+    "tags": ["red", "floral", "summer", "casual", "dress"]
+  },
+  {
+    "id": "p003",
+    "name": "White Minimalist Shirt",
+    "description": "Clean white casual shirt with a minimalist design, suitable for everyday wear.",
+    "category": "Shirts",
+    "brand": "UrbanVision",
+    "price": 1299,
+    "currency": "INR",
+    "image_url": "https://placehold.co/600x800?text=White+Shirt",
+    "tags": ["white", "shirt", "casual", "minimal", "everyday"]
+  },
+  {
+    "id": "p004",
+    "name": "Blue Denim Jacket",
+    "description": "Classic blue denim jacket with a versatile casual style for everyday outfits.",
+    "category": "Jackets",
+    "brand": "UrbanVision",
+    "price": 2199,
+    "currency": "INR",
+    "image_url": "https://placehold.co/600x800?text=Denim+Jacket",
+    "tags": ["blue", "denim", "jacket", "casual", "streetwear"]
+  },
+  {
+    "id": "p005",
+    "name": "Golden Party Heels",
+    "description": "Stylish golden heels designed to complement party dresses and evening outfits.",
+    "category": "Footwear",
+    "brand": "StyleStep",
+    "price": 1999,
+    "currency": "INR",
+    "image_url": "https://placehold.co/600x800?text=Golden+Heels",
+    "tags": ["golden", "heels", "party", "evening", "footwear"]
+  }
+]
